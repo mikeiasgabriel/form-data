@@ -54,6 +54,7 @@ declare namespace FormData {
     filename?: string;
     filepath?: string;
     contentType?: string;
+    encodeFilename?: boolean
   }
 
   interface SubmitOptions extends http.RequestOptions {

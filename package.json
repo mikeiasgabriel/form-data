@@ -1,6 +1,6 @@
 {
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
-  "name": "form-data",
+  "name": "@mikeiasunilever/form-data",
   "description": "A library to create readable \"multipart/form-data\" streams. Can be used to submit forms and file uploads to other web applications.",
   "version": "4.0.4",
   "repository": {
@@ -78,5 +78,13 @@
     "commitLimit": false,
     "backfillLimit": false,
     "hideCredit": true
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/form-data/form-data/issues"
+  },
+  "homepage": "https://github.com/form-data/form-data#readme"
 }
